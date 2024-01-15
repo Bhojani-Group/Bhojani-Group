@@ -5,16 +5,22 @@
 .youtube i{
     font-size: 30px;
     color: white;
-    width: 50px;
-    height: 50px;
-    background-color: blue;
+    width: 45px;
+    height: 45px;
+    background-color: #044cab;
     border-radius: 50%;
     text-align: center;
-    line-height: 50px;
+    line-height: 44px;
     transition: 0.4s;
     margin-top: 5px;
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 82px;
+}
+.youtube{
+    display: inline-block;
+}
+i.fa-brands.fa-youtube {
+    margin-left: 110px;
 }
 .youtube i:hover{
     background: #FFB74D;
@@ -30,10 +36,11 @@
     display: inline-block;
     color: white;
     margin: 10px;
-    margin-left: 250px;
+    margin-left: 201px;
     font-size: 25px;
     font-family: monospace;
-    font-weight: large;
+    font-weight: 600;
+    margin-right: 18px;
 }
 .nevigation li{
     float: left;
