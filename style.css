@@ -12,9 +12,11 @@ body{
     overflow: hidden;
     background-color: #044cab;
 }
+
 .contact{
     margin-right:134px;
 }
+
 .nevigation li{
     float: left;
 }
@@ -71,14 +73,44 @@ i.fa-brands.fa-youtube {
 #ragi{
     border: 2px solid black;
     margin: 10px;
+    max-width: 300px;
+    float: left;
+    position: static;
+    margin-right: 20px;
 }
-#caption{
-    margin-left: 10px;
+
+#content{
+    left: 30%;
+}
+#subcap{
+    font-weight: 400;
+    font-size: 20px;
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    margin-top: 20px;
+}
+
+#dang{
     font-weight: 600;
-    font-size: 25px;
+    font-size: 23px;
 }
+
+#conthead{
+    font-weight: 600;
+    font-size: 36px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 5px;
+}
+
 #price{
-    margin-left: 10px;
-    font-weight: 600;
     font-size: 25px;
+    color: red;
+    font-weight: 500;
+    margin-top: 5px;
+}
+#discription{
+    font-size: 20px;
+    margin-top: 7px;
 }
