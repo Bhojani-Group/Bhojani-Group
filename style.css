@@ -60,7 +60,7 @@ li :hover{
     display: inline-block;
 }
 i.fa-brands.fa-youtube {
-    margin-left: 110px;
+    margin-left: 64px;
 }
 .youtube i:hover{
     background: #FFB74D;
@@ -75,12 +75,11 @@ i.fa-brands.fa-youtube {
     margin: 10px;
     max-width: 300px;
     float: left;
-    position: static;
     margin-right: 20px;
 }
 
 #content{
-    left: 30%;
+    height: 310px;
 }
 #subcap{
     font-weight: 400;
@@ -114,3 +113,50 @@ i.fa-brands.fa-youtube {
     font-size: 20px;
     margin-top: 7px;
 }
+
+hr{
+    margin-bottom: 10px;
+}
+.gujarati{
+    height: 400px;
+}
+#ragi4{
+    float: inline-end;
+    border: solid black 2px;
+    height: 300px;
+    width: 300px;
+    margin-right: 10px;
+}
+#dang1{
+    font-weight: 600;
+    font-size: 23px;
+}
+#subcap1{
+    font-weight: 400;
+    font-size: 20px;
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+}
+#conthead1{
+    font-weight: 600;
+    font-size: 36px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#price1{
+    font-size: 25px;
+    color: red;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#discription1{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
